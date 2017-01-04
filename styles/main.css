@@ -1,0 +1,153 @@
+* {
+    font-family: 'SF UI Text Light', 'Helvetica Neue', 'HelveticaNeue', Helvetica, Arial, Verdana, sans-serif;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+
+body {
+    background-color: transparent;
+    -webkit-transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    -webkit-transform-style: preserve-3d;
+}
+
+input,
+select {
+    outline: none medium;
+}
+
+.gwd-div-k6r8 {
+    position: absolute;
+    background-image: none;
+    background-color: rgb(211, 211, 211);
+    width: 480px;
+    height: 480px;
+    -webkit-transform-origin: 240px 155px 0px;
+    -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    left: 0px;
+    top: 0px;
+}
+
+.inputPing {
+    position: absolute;
+    border: 1px none transparent;
+    font-size: 22px;
+    color: rgb(17, 189, 243);
+    background-image: none;
+    background-color: rgb(255, 254, 254);
+    border-top-left-radius: 44px;
+    border-top-right-radius: 44px;
+    border-bottom-left-radius: 44px;
+    border-bottom-right-radius: 44px;
+    border-image-source: none;
+    width: 437px;
+    height: 31px;
+    -webkit-transform-origin: 220.8494623656px 27px 0px;
+    -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    top: 56px;
+    left: 21px;
+    padding-left: 0.5em;
+}
+
+.inputBtn {
+    position: absolute;
+    border-style: outset;
+    background-image: none;
+    background-color: rgb(215, 203, 194);
+    top: 108.50000000000006px;
+    border-top-left-radius: 95px;
+    border-top-right-radius: 95px;
+    border-bottom-left-radius: 95px;
+    border-bottom-right-radius: 95px;
+    width: 80px;
+    height: 80px;
+    left: 197.00000000000063px;
+    -webkit-transform-origin: 41px 44px 0px;
+    -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    vertical-align: middle;
+    text-align: center;
+    font-size: 32px;
+    color: gray;
+    cursor: hand;
+}
+
+.inputBtn:hover {
+    background-color: rgb(2, 203, 194);
+}
+
+.inputBtn:active {
+    border: none;
+    background-color: rgb(144, 132, 132);
+    color: rgb(236, 233, 233);
+}
+
+.gwd-span {
+    position: absolute;
+    width: 328px;
+    height: 24px;
+    background-image: none;
+    left: 24px;
+    top: 19px;
+    font-family: verdana, arial, sans-serif;
+    font-size: 12px;
+}
+
+.gwd-span-0toe {
+    font-family: verdana, helvetica, arial, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    background-color: rgb(255, 255, 255);
+}
+
+.gwd-div-0zrr {
+    text-align: left;
+}
+
+.gwd-span-3pgo {
+    background-color: rgb(255, 255, 255);
+    font-family: verdana, helvetica, arial, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.gwd-span-p8rh {
+    background-image: none;
+    left: 19px;
+    top: 363.4311210211px;
+    width: 439px;
+    height: 116.3451196521px;
+    -webkit-transform-origin: 233.5px 57.6949541284px 0px;
+    -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+}
+
+.gwd-span-ym51 {
+    width: 442.5797869742px;
+    height: 19.207238185px;
+    -webkit-transform-origin: 235.4255874674px 9.5px 0px;
+    -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+    top: 29px;
+    left: 18.499999999999886px;
+}
+
+html {
+    overflow-y: hidden;
+}
+
+#job_ad {
+    border: 0 none;
+    overflow-y: hidden;
+    width: 0px;
+    height: 0px;
+    display: none;
+}
+
+#spin {
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
